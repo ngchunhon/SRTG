@@ -32,7 +32,9 @@
 
 ***
 
-|## Specification 石頭 `1(A)/1`|
+## Specification
+
+| 石頭 `1(A)/1`|
 |:-|
 |2{W}。|
 
