@@ -109,14 +109,13 @@
 
 |[103]() Object Shield `1(P)/1`|
 |:-|
-|2{W} for 3.<br>Protect objects, but not base.<br>3 “Object Shield” may change as “Object Rebound Wall”.|
+|2{W} for 3.<br>Protect objects, but not base.<br>3 “Object Shield” may change as <br>“Object Rebound Wall”.|
 
-> When an object is assigned as target, 
-> do blocking.
+>When an object is assigned as target, do blocking.
 
 |[110]() Object Rebound Wall `2(M)/3`|
 |:-|
-|Protect objects, but not base.<br>When an object is assigned as target, do blocking.|
+|Protect objects, but not base.<br>|
 
 |[111]() Heli Flyer `1(?)/3`|
 |:-|
@@ -132,6 +131,6 @@
 
 |[120]() Anti Missile `1(P)/1`|
 |:-|
-|2{W} for 2. <br>Use 2 “Anti Missile” at the same time, (P)+1.|
+|2{W} for 2. <br>Use 2 “Anti Missile” at the same time, <br>(P)+1.|
 
 ***
