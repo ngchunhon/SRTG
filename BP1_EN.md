@@ -115,16 +115,20 @@
 |:-|
 |Protect objects, but not base.<br>When an object is assigned as target, do blocking.|
 
-Heli Flyer 1(?)/3
-Take 1 object from adjacent player. 
+|[111]() Heli Flyer `1(?)/3`|
+|:-|
+|Take 1 object from adjacent player.|
 
-Shuriken 1(A)/2
-Ignore object blocking.
+|[112]() Shuriken `1(A)/2`|
+|:-|
+|Ignore object blocking.|
 
-Steel Plate 1(P)/1
-Hurt -1 from “Shuriken”.
+|[113]() Steel Plate `1(P)/1`|
+|:-|
+|Hurt -1 from “Shuriken”.|
 
-Anti Missile 1(P)/1 
-2{W} for 2. 
-Use 2 “Anti Missile” 
-at the same time, (P)+1.
+|[120]() Anti Missile `1(P)/1`|
+|:-|
+|2{W} for 2. <br>Use 2 “Anti Missile” at the same time, (P)+1.|
+
+***
