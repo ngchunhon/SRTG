@@ -99,26 +99,21 @@
 |:-|
 |Use with “Bullet” at the same time. (A)+3.|
 
-Rifle 0(A)/2 
-Use with “Bullet” at the same time.
-(A)+5.
+|[101]() Rifle `0(A)/2`|
+|:-|
+|Use with “Bullet” at the same time. (A)+5.|
 
-Sniper Rifle 0(A)/2 r=2
-Use with “Bullet” at the same time.
-(A)+4.
+|[102]() Sniper Rifle `0(A)/2`|
+|:-|
+|r=2. Use with “Bullet” at the same time. (A)+4.|
 
-Object Shield 1(P)/1 
-2{W} for 3.
-Protect objects, but not base.
-When an object is assigned as 
-target, do blocking.
-3 “Object Shield” may change as
-“Object Rebound Wall”.
+|[103]() Object Shield `1(P)/1`|
+|:-|
+|2{W} for 3.<br>Protect objects, but not base.<br>When an object is assigned as target, do blocking.<br>3 “Object Shield” may change as “Object Rebound Wall”.|
 
-Object Rebound Wall 2(M)/3
-Protect objects, but not base.
-When an object is assigned as 
-target, do blocking.
+|[110]() Object Rebound Wall `2(M)/3`|
+|:-|
+|Protect objects, but not base.<br>When an object is assigned as target, do blocking.|
 
 Heli Flyer 1(?)/3
 Take 1 object from adjacent player. 
