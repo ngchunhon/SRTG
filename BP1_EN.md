@@ -38,7 +38,7 @@
 
 |[002]() Shield `1(P)/1`|
 |:-|
-|2{W} for 3. <br>3 “Shield” may change as “Rebound Wall”. |
+|2{W} for 3. <br>3 “Shield” may change as <br>“Rebound Wall”. |
 
 |[003]() Rebound Wall `2(M)/3`|
 |:-|
@@ -73,7 +73,7 @@
 
 |[022]() Lever `0(A)/2`|
 |:-|
-|Use with “Stone” at the same time, (A)+5.|
+|Use with “Stone” at the same time,<br>(A)+5.|
 
 |[023]() Repair Box `0(P)/1`|
 |:-|
@@ -81,11 +81,11 @@
 
 |[030]() Scope `1(?)/2`|
 |:-|
-|Assign 1 object to attack.<br>This attack cannot treated as weapon attack.|
+|Assign 1 object to attack.<br>This attack cannot treated as <br>weapon attack.|
 
 |[031]() Acid `1(?)/4`|
 |:-|
-|Assign 1 object to destroy. Ignore effect from “Polaroid”.|
+|Assign 1 object to destroy. <br>Ignore effect from “Polaroid”.|
 
 |[032]() Cannon `6(A)/4`|
 |:-|
@@ -97,7 +97,7 @@
 
 |[100]() Pistol `0(A)/1`|
 |:-|
-|Use with “Bullet” at the same time. (A)+3.|
+|Use with “Bullet” at the same time. <br>(A)+3.|
 
 |[101]() Rifle `0(A)/2`|
 |:-|
@@ -109,7 +109,10 @@
 
 |[103]() Object Shield `1(P)/1`|
 |:-|
-|2{W} for 3.<br>Protect objects, but not base.<br>When an object is assigned as target, do blocking.<br>3 “Object Shield” may change as “Object Rebound Wall”.|
+|2{W} for 3.<br>Protect objects, but not base.<br>3 “Object Shield” may change as “Object Rebound Wall”.|
+
+> When an object is assigned as target, 
+> do blocking.
 
 |[110]() Object Rebound Wall `2(M)/3`|
 |:-|
