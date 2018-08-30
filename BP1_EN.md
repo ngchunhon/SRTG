@@ -14,32 +14,27 @@
 |013|Polaroid|1(?)/2|
 |020|Air Cannon|4(A)/3|
 |021|Alkaline|1(A)/1|
-
-Lever 0(A)/2 
-Repair Box 0(P)/1
-Scope 1(?)/2
-Acid 1(?)/4
-Cannon 6(A)/4 r=2
-Bullet 0(A)/1
-Pistol 0(A)/1
-
-** 17: 0101 **
-Rifle 0(A)/2
-Sniper Rifle 0(A)/2 r=2
-Object Shield 1(P)/1
-Object Rebound Wall 2(M)/3
-Heli Flyer 1(?)/3
-Shuriken 1(A)/2
-Steel Plate 1(P)/1
-Anti Missile 1(P)/1 
+|022|Lever|0(A)/2|
+|023|Repair Box|0(P)/1|
+|030|Scope|1(?)/2|
+|031|Acid|1(?)/4|
+|032|Cannon|6(A)/4|
+|033|Bullet|0(A)/1|
+|100|Pistol|0(A)/1|
+|101|Rifle|0(A)/2|
+|102|Sniper Rifle|0(A)/2|
+|103|Object Shield|1(P)/1|
+|110|Object Rebound Wall|2(M)/3|
+|111|Heli Flyer|1(?)/3|
+|112|Shuriken|1(A)/2|
+|113|Steel Plate|1(P)/1|
+|120|Anti Missile|1(P)/1| 
 
 ***
 
-## No. 1 - 8
-
-|Stone|
+|[001]() Stone `1(A)/1`|
 |:-|
-|1(A)/1|
+|2{W}.|
 
 |Shield|
 |:-|
