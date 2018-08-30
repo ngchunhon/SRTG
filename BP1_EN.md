@@ -62,36 +62,42 @@
 |Cancel out (?) effect once.<br>|
 |// Use Polaroid to filter!|
 
-Air Cannon 4(A)/3
-Treat (M) of “Rebound Wall” as (P).
-// Air cannot rebound.
+|[020]() Air Cannon `4(A)/3`|
+|:-|
+|Treat (M) of “Rebound Wall” as (P).|
+|// Air cannot rebound.|
 
-Alkaline 1(A)/1
+|[021]() Alkaline `1(A)/1`|
+|:-|
+||
 
-Lever 0(A)/2 
-use with “Stone” at the same time.
-(A)+5.
+|[022]() Lever `0(A)/2`|
+|:-|
+|Use with “Stone” at the same time, (A)+5.|
 
-Repair Box 0(P)/1
-Recover 1(HP) for 
-any player’s base.
+|[023]() Repair Box `0(P)/1`|
+|:-|
+|Recover 1(HP) for any player’s base.|
 
-Scope 1(?)/2
-Assign 1 object to attack.
-This attack cannot treated as weapon attack.
+|[030]() Scope `1(?)/2`|
+|:-|
+|Assign 1 object to attack.<br>This attack cannot treated as weapon attack.|
 
-Acid 1(?)/4
-Assign 1 object to destroy.
-Ignore effect from “Polaroid”.
+|[031]() Acid `1(?)/4`|
+|:-|
+|Assign 1 object to destroy. Ignore effect from “Polaroid”.|
 
-Cannon 6(A)/4 r=2
+|[032]() Cannon `6(A)/4`|
+|:-|
+|r=2.|
 
-Bullet 0(A)/1 
-3{W}.
+|[033]() Bullet `0(A)/1`|
+|:-|
+|3{W}.|
 
-Pistol 0(A)/1
-Use with “Bullet” at the same time.
-(A)+3.
+|[100]() Pistol `0(A)/1`|
+|:-|
+|Use with “Bullet” at the same time. (A)+3.|
 
 Rifle 0(A)/2 
 Use with “Bullet” at the same time.
