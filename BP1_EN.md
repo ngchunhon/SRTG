@@ -3,19 +3,18 @@
 
 ## BP Table
 
-|no|code|name|ratio|
-|:-|:-|:-|:-|
-|1|0001|Stone|1(A)/1|
-|2|0002|Shield|1(P)/1|
-|3|0003|Rebound Wall|2(M)/3|
-|4|0010|Grenade|3(A)/2|
-|5|0011|Bomb|5(A)/3|
-|6|0012|Infra Red|1(?)/2|
-|7|0013|Polaroid|1(?)/2|
-|8|0020|Air Cannon|4(A)/3|
+|code|name|ratio|
+|:-|:-|:-|
+|001|Stone|1(A)/1|
+|002|Shield|1(P)/1|
+|003|Rebound Wall|2(M)/3|
+|010|Grenade|3(A)/2|
+|011|Bomb|5(A)/3|
+|012|Infra Red|1(?)/2|
+|013|Polaroid|1(?)/2|
+|020|Air Cannon|4(A)/3|
+|021|Alkaline|1(A)/1|
 
-** 9: 0021 **
-Alkaline 1(A)/1
 Lever 0(A)/2 
 Repair Box 0(P)/1
 Scope 1(?)/2
