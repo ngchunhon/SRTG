@@ -36,30 +36,31 @@
 |:-|
 |2{W}.|
 
-|Shield|
+|[002]() Shield `1(P)/1`|
 |:-|
-|1(P)/1|
 |2{W} for 3. <br>3 “Shield” may change as “Rebound Wall”. |
 
-|Rebound Wall|
+|[003]() Rebound Wall `2(M)/3`|
 |:-|
-|2(M)/3|
-|If hurt is no more than 2(A), transfer back to source. Otherwise destroyed.|
+|If hurt is no more than 2(A), <br>transfer back to source. <br>Otherwise destroyed.|
 
-Grenade 3(A)/2
+|[010]() Grenade `3(A)/2`|
+|:-|
+||
 
-Bomb 5(A)/3
+|[011]() Bomb `5(A)/3`|
+|:-|
+||
 
-Infra Red 1(?)/2
-During settlement,
-(A) of your arbitrary weapons
-can be treated as (P).
-// detect heat from weapon
-and do blocking!
+|[012]() Infra Red `1(?)/2`|
+|:-|
+|During settlement,<br>(A) of your arbitrary weapons<br>can be treated as (P).|
+|// detect heat from weapon<br>and do blocking!|
 
-Polaroid 1(?)/2
-Cancel out (?) effect once.
-// Use Polaroid to filter!
+|[013]() Polaroid `1(?)/2`|
+|:-|
+|Cancel out (?) effect once.<br>|
+|// Use Polaroid to filter!|
 
 Air Cannon 4(A)/3
 Treat (M) of “Rebound Wall” as (P).
