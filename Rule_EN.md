@@ -44,16 +44,15 @@
 
 ## Preface
 
-Star Road the Gathering,
-called “World Peace” originally,
-was my game
-designed in Form 1.
+Star Road the Gathering,<br>
+called “World Peace” originally,<br>
+was my game designed in Form 1.
 
-Star Road the Gathering,
-Decrypt Adventure,
-Matches Man,
-Mario the Board Game 
-are in “Big 4 Project”.
+- Star Road the Gathering
+- Decrypt Adventure
+- Matches Man
+- Mario the Board Game 
+are in “Big 4 Project”.<br>
 
 (Hall Six is not in “Big 4”)
 
@@ -61,24 +60,24 @@ are in “Big 4 Project”.
 
 ## History
 
-遊戲原先跟平常玩法相若 -
-透過猜贏其他人，
-獲得一次製造武器的機會。
+遊戲原先跟平常玩法相若。<br>
+透過猜贏其他人，<br>
+獲得一次製造武器的機會。<br>
 
-其後因武器越畫越多，
-引伸用一疊紙記錄所有武器，
-起名 “大集會”。
+其後因武器越畫越多，<br>
+引伸用一疊紙記錄所有武器，<br>
+起名 “大集會”。<br>
 
-因不想武器功能重疊，
-引伸某些須猜贏多次才能製好，
-同時攻擊力較大。
+因不想武器功能重疊，<br>
+引伸某些須猜贏多次才能製好，<br>
+同時攻擊力較大。<br>
 
-及後發覺以猜拳決定
-誰可製造武器太重運氣成份，
-演變成現時固定
-獲得製造武器機會。
-(現時稱作 “生產物件”。
-武器是物件其中一種。)
+及後發覺以猜拳決定<br>
+誰可製造武器太重運氣成份，<br>
+演變成現時固定<br>
+獲得製造武器機會。<br>
+(現時稱作 “生產物件”。<br>
+武器是物件其中一種。)<br>
 
 ***
 
@@ -94,20 +93,23 @@ are in “Big 4 Project”.
 - Documentation 1
 
 ## Game Field
-
+/
 
 
 ## Objective 
 
-- Destroy other colours.
-Team distribution is determined 
-by Team Table.
-- End game when only one colour survive.
+- Destroy other colours.<br>
+Team distribution is determined<br>
+by Team Table.<br>
+- End game when only one colour survive.<br>
 
 ## Team Table
 
-2P: R B
-3P: R G B
+|||
+|-|-|
+|2P:|R B|
+|3P:|R G B|
+
 4P: R* R B* B
 5P: R* R G B Y (B Y same team)
 6P: R* R G* G B* B
