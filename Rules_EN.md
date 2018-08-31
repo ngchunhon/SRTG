@@ -178,20 +178,17 @@ Game flows in anti-clockwise direction. <br>
 ## Game in Progress 
 
  - Game is in turn-based 
- - Each player in his/her turn
-have to play 4 Stages 
+ - Each player in his/her turn have to play 4 Stages <br>
 with the following order.
  1. Beginning of Stage 
  2. Supplement Stage
  3. Action Stage
  4. End of Stage
- - Any player end turn,
-pass to the next player.
+ - Any player end turn, pass to the next player.
 
-**Rules for 1st cycle:**
-All players except the last one,
-cannot use objects 
-in the first cycle.
+**Rules for 1st cycle:** <br>
+All players except the last one, <br>
+cannot use objects in the first cycle.
 
 
 
@@ -218,31 +215,33 @@ Usually skipped.
 
 ## Produce Object
 
- 1) Take a stand and digit pieces.
-Place 4 digit pieces in the stand
-to form an object.<br>
-(These 4 number treat as a code
-and cannot be changed afterward.)
- 2) Place the object on the lower platform on a Production Line.<br>
-(Object position cannot be 
-changed afterward.)
- 3) If that position had already placed an object, place on its upper platform.
- 4) Take X[W] from your storage and place beside the object.<br>
-(Maximum of X is 4 in 1 Turn)
- 5) If its [W] reach its required resource, placed a pink indicator,
+1) Take a stand and digit pieces. <br>
+Place 4 digit pieces in the stand <br>
+to form an object.
+> These 4 number treat as a code <br>
+> and cannot be changed afterward. 
+2) Place the object on the lower platform <br>
+on a Production Line.<br>
+> Object position cannot be changed afterward.
+3) If that position had already <br>
+placed an object, place on its upper platform.
+4) Take X[W] from your storage and  <br>
+place beside the object.
+> Maximum of X is 4 in 1 Turn
+5) If its [W] reach its required resource, <br>
+placed a pink indicator, <br>
 which declared the object is completed.
 
-> Objects in Production Line 
-> must more than 0[W] and
-> not more than its
-> required resource.
+> Objects in Production Line <br>
+> must more than 0[W] and <br>
+> not more than its equired resource.
 >
-> If it is 0[W], removed from Production Line.
+> If it is 0[W], <br>
+> removed from Production Line.
 >
-> If more than 0[W],
-> it cannot be disposed,
-> but can be removed 
-> when produce new object.
+> If more than 0[W], <br>
+> it cannot be disposed, <br>
+> but can be removed when produce new object.
 
 
 
@@ -250,31 +249,28 @@ which declared the object is completed.
 
  - Object can be used after completion.
  - ALL objects can be used in any instant except weapons.
- - If using weapon, 
-do the settlement.
+ - If using weapon, do the settlement.
 
 
 
 ## Production Line
 
- - Production Line is used for
-producing objects. In general, 
-you have 4 Lines.
- - Production Line is classified as 1st Platform and 2nd Platform.
-(1st in upper, 2nd in lower)
-Each platform can only 
-place 1 object.
- - When spaces are full, 
-you dispose one of the object
-to release space.
+ - Production Line is used for producing objects. <br>
+In general, you have 4 Lines.
+ - Production Line is classified as <br>
+1st Platform and 2nd Platform. <br>
+(1st in upper, 2nd in lower) <br>
+Each platform can only place 1 object.
+ - When spaces are full, <br>
+you dispose one of the object to release space.
 
 
 
 ## Distance [d]
 
-It is counted per head.
-The distance between you and your adjacent player is 1.
-When counting distance,
+It is counted per head. <br>
+The distance between you and your adjacent player is 1. <br>
+When counting distance, <br>
 always count the shortest one.
 
 
@@ -287,138 +283,120 @@ Normally, the distance is 1.
 
 ## Weapon [A]
 
-Normally, is an object which
-only consist of attack value (A) 
+Normally, is an object which <br>
+only consist of attack value (A) <br>
 and no protect value (P).
 
 
 
 ## Shield [P]
 
-Normally, is an object which
-only consist of protect value (P) 
+Normally, is an object which <br>
+only consist of protect value (P) <br>
 and no attack value (A).
 
 **Shield block settlement:** <br>
-In the description (6) of
-“Hurt Settlement”,
+In the description (6) of “Hurt Settlement”, <br>
 amend (W) with (P).
 
-If that turn
-the accumulated hurt is more than its (P), Shield destroyed.
+If that turn <br>
+the accumulated hurt is more than its (P), Shield destroyed. <br>
 Otherwise, ignore that harm.
 
 
 
 ## Mix [M]
 
-Normally, is an object which
-consist of protect value (P) 
+Normally, is an object <br>
+which consist of protect value (P) <br>
 and attack value (A).
 
 **Mix block settlement:** <br>
-In the description (6) of
-“Hurt Settlement”,
+In the description (6) of “Hurt Settlement”, <br>
 amend (W) with (M).
 
-If that turn
-the accumulated hurt is more than its (M), Mix destroyed.
+If that turn <br>
+the accumulated hurt is more than its (M), Mix destroyed. <br>
 Otherwise, transfer hurt to the source (player) each time.
 
 
->CANNOT
->use Shield to block its rebound OR
->use Mix to rebound its rebound.
->Since Mix is not a weapon.
+>CANNOT <br>
+>use Shield to block its rebound OR <br>
+>use Mix to rebound its rebound. <br>
+>Since Mix is not Weapon.
 
 
 
 ## Special [?]
 
-I.e. Not Attack nor Protect.
-Normally, is an object which
-consist of no protect value (P) 
+I.e. Not Attack nor Protect. <br>
+Normally, is an object <br>
+which consist of no protect value (P) <br>
 and no attack value (A).
 
 
 
 ## Object [No]
 
-Object is described in Blue Print.
-Use stand and digit pieces 
-to represent objects 
+Object is described in Blue Print. <br>
+Use stand and digit pieces to represent objects <br>
 during the game.
 
 
 
 ## Storage {W} 
 
- - X{W} stand for 
-minimum storage is X. <br>
-If less than X, 
+ - X{W} stand for minimum storage is X. <br>
+If less than X, <br>
 then cannot use that object.
 
- - Storage also called as
-Degrees of Freedom (DF) or
+ - Storage also called as <br>
+Degrees of Freedom (DF) or <br>
 intelligence.
 
 
 
 ## Harm Settlement 
 
- 1) Declare using 
-arbitrary weapons with order,
-turn the stand facing outward,
+ 1) Declare using arbitrary weapons with order, <br>
+turn the stand facing outward, <br>
 and assign a target player.
- 2) If target player is more than 1,
+ 2) If target player is more than 1, <br>
 settle one after another.
- 3) Target player may choose
-arbitrary objects with order,
-to block arbitrary weapons.
-(optional) turn the stand 
-facing outward.
- 4) If no object blocked,
-weapons will hurt 
-target player’s base directly.
- 5) If objects blocked,
-weapons will hurt objects.
- 6) Hurt is settled as
-1(W) cancel out 1(A).
-Remove cancelled [W] from 
-those objects.
+ 3) Target player may choose arbitrary objects with order, <br>
+to block arbitrary weapons. <br>
+(optional) turn the stand facing outward.
+ 4) If no object blocked, <br>
+weapons will hurt target player’s base directly.
+ 5) If objects blocked, <br>
+weapons will hurt objects. 
+ 6) Hurt is settled as 1(W) cancel out 1(A). <br>
+Remove cancelled [W] from those objects.
 
 > **Hurt Settlement with order** <br>
 >
->Settle 1st weapon against
->1st blocking object...
->1. If blocking object is destroyed,
->settle the remaining attack value from 1st weapon 
+>Settle 1st weapon against 1st blocking object...
+>1. If blocking object is destroyed, <br>
+>settle the remaining attack value from 1st weapon  <br>
 >against 2nd blocking object.
->2. If blocking object 
->had not destroyed,
->settle 2nd weapon against 
->the remaining [W] 
->from 1st blocking object.
-><br><br>
+>2. If blocking object had not destroyed, <br>
+>settle 2nd weapon against <br>
+>the remaining [W] from 1st blocking object. <br>
+><br>
 >and so on.
 
- 7) If there exist 
-remaining attack value 
-after blocking,
-then will hurt 
-target player’s base directly.
- 8) Weapon is destroyed
-after using once.
+ 7) If there exist remaining attack value <br>
+after blocking, <br>
+then will hurt target player’s base directly. 
+ 8) Weapon is destroyed after using once.
 
 
 
 ## Use Settlement
 
-Always first settle latter, 
-then former.<br>
-After a player uses an object,
-should ask whether 
-other player would use objects.
+Always first settle latter, then former.<br>
+After a player uses an object, <br>
+should ask whether other player would use objects.
 
 
 
@@ -430,17 +408,15 @@ Move back to common area.
 
 ## Gain
 
-Move from common area
-to your field.
+Move from common area to your field.
 
 
 
 ## Recycle [R]
 
 **X(R)** <br>
-That object will not be 
-destroyed after use.
-Remove X[W] and pink indicator.
+That object will not be destroyed after use. <br>
+Remove X[W] and pink indicator. <br>
 It may continue to produce.
 
 
@@ -448,12 +424,10 @@ It may continue to produce.
 ## Use Limit [UL]
 
 **X(UL)** <br>
- - After an object 
-is declared completed, 
-place X pink indicator, indicate 
-that can be use for X times.
- - When used once, 
-remove 1 indicator.
+ - After an object is declared completed, <br>
+place X pink indicator, <br>
+indicate that can be use for X times.
+ - When used once, remove 1 indicator. <br>
 Destroy after using X times.
 
 
@@ -461,12 +435,11 @@ Destroy after using X times.
 ## Delay [t]
 
 **X(t)** <br>
- - When using that object,
-place X Delay indicator,
-indicated that object 
-can be used after X cycles.
- - In your beginning of stage,
-remove 1 indicator (of each object).
+ - When using that object, <br>
+place X Delay indicator, <br>
+indicated that object can be used after X cycles.
+ - In your beginning of stage, <br>
+remove 1 indicator (of each object). <br>
 Use it after remove all indicators.
 
 ***
