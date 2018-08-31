@@ -153,10 +153,10 @@ Each player:
 (place beside Production Line)
  - 8[W] as HP (place on Team Card)
 
-(You share HP with Base.
-When your Base is 0[W], 
-you are destroyed and 
-cannot play the game.)
+>You share HP with Base.
+>When your Base is 0[W], 
+>you are destroyed and 
+>cannot play the game.
 
  2) Get your colour
  - Each player random draw 1 
@@ -200,22 +200,21 @@ in the first cycle.
 
 ## 4 Stages
 
-**Beginning of Stage**
+**Beginning of Stage** <br>
 Usually skipped.
 
-**Supplement Stage**
+**Supplement Stage** <br>
 Gain 2[W] and place in Storage.
 
-**Action Stage**
-
+**Action Stage** <br>
 You may do unlimited times 
 and in any order, 
 to produce objects and
-use objects.
+use objects.<br>
 (until you cannot do or
 do not want to do.)
 
-**End of Stage**
+**End of Stage** <br>
 Usually skipped.
 
 
@@ -224,14 +223,14 @@ Usually skipped.
 
  1) Take a stand and digit pieces.
 Place 4 digit pieces in the stand
-to form an object.
+to form an object.<br>
 (These 4 number treat as a code
 and cannot be changed afterward.)
- 2) Place the object on the lower platform on a Production Line.
+ 2) Place the object on the lower platform on a Production Line.<br>
 (Object position cannot be 
 changed afterward.)
  3) If that position had already placed an object, place on its upper platform.
- 4) Take X[W] from your storage and place beside the object.
+ 4) Take X[W] from your storage and place beside the object.<br>
 (Maximum of X is 4 in 1 Turn)
  5) If its [W] reach its required resource, placed a pink indicator,
 which declared the object is completed.
@@ -303,7 +302,7 @@ Normally, is an object which
 only consist of protect value (P) 
 and no attack value (A).
 
-**Shield block settlement:**
+**Shield block settlement:** <br>
 In the description (6) of
 “Hurt Settlement”,
 amend (W) with (P).
@@ -320,7 +319,7 @@ Normally, is an object which
 consist of protect value (P) 
 and attack value (A).
 
-**Mix block settlement:**
+**Mix block settlement:** <br>
 In the description (6) of
 “Hurt Settlement”,
 amend (W) with (M).
@@ -339,7 +338,7 @@ Otherwise, transfer hurt to the source (player) each time.
 
 ## Special [?]
 
-I.e. Not Attack nor Protect
+I.e. Not Attack nor Protect.
 Normally, is an object which
 consist of no protect value (P) 
 and no attack value (A).
@@ -358,7 +357,7 @@ during the game.
 ## Storage {W} 
 
  - X{W} stand for 
-minimum storage is X. 
+minimum storage is X. <br>
 If less than X, 
 then cannot use that object.
 
@@ -391,21 +390,20 @@ weapons will hurt objects.
 Remove cancelled [W] from 
 those objects.
 
-Hurt Settlement with order
-
-Settle 1st weapon against
-1st blocking object...
- 1. If blocking object is destroyed,
-settle the remaining attack value from 1st weapon 
-against 2nd blocking object.
- 2. If blocking object 
-had not destroyed,
-settle 2nd weapon against 
-the remaining [W] 
-from 1st blocking object.
-
-and so on.
- * * * * * * * *
+> **Hurt Settlement with order** <br>
+>
+>Settle 1st weapon against
+>1st blocking object...
+>1. If blocking object is destroyed,
+>settle the remaining attack value from 1st weapon 
+>against 2nd blocking object.
+>2. If blocking object 
+>had not destroyed,
+>settle 2nd weapon against 
+>the remaining [W] 
+>from 1st blocking object.
+><br><br>
+>and so on.
 
  7) If there exist 
 remaining attack value 
@@ -414,35 +412,45 @@ then will hurt
 target player’s base directly.
  8) Weapon is destroyed
 after using once.
-————————
-Use Settlement
+
+
+
+## Use Settlement
 
 Always first settle latter, 
-then former.
+then former.<br>
 After a player uses an object,
 should ask whether 
 other player would use objects.
-————————
-Destroy 
+
+
+
+## Destroy 
 
 Move back to common area.
-————————
-Gain
+
+
+
+## Gain
 
 Move from common area
 to your field.
-————————
-Recycle [R]
 
-X(R)
+
+
+## Recycle [R]
+
+**X(R)** <br>
 That object will not be 
 destroyed after use.
 Remove X[W] and pink indicator.
 It may continue to produce.
-————————
-Use Limit [UL]
 
-X(UL)
+
+
+## Use Limit [UL]
+
+**X(UL)** <br>
  - After an object 
 is declared completed, 
 place X pink indicator, indicate 
@@ -450,18 +458,18 @@ that can be use for X times.
  - When used once, 
 remove 1 indicator.
 Destroy after using X times.
-————————
-Delay [t]
 
-X(t)
+
+
+## Delay [t]
+
+**X(t)** <br>
  - When using that object,
-place X delay indicator,
+place X Delay indicator,
 indicated that object 
 can be used after X cycles.
  - In your beginning of stage,
-remove 1 indicator (each object),
-can b
- - 回合開始時，
-每個物件移走 1 個標記。
-所有標記移走才能使用。
-————————
+remove 1 indicator (of each object).
+Use it after remove all indicators.
+
+***
