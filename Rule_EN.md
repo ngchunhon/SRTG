@@ -57,7 +57,7 @@ are in “Big 4 Project”.<br>
 
 (Hall Six is not in “Big 4”)<br>
 
-***
+
 
 ## History
 
@@ -80,7 +80,7 @@ are in “Big 4 Project”.<br>
 (現時稱作 “生產物件”。<br>
 武器是物件其中一種。)<br>
 
-***
+
 
 ## Materials
 
@@ -95,6 +95,7 @@ are in “Big 4 Project”.<br>
 
 ## Game Field
 /
+
 
 
 ## Objective 
@@ -122,7 +123,7 @@ G: Green <br>
 Y: Yellow <br>
 *: Team Leader <br>
 
-***
+
 
 ## Bouns and Penalty System 
 
@@ -142,12 +143,12 @@ your team is undetermined.<br>
 Destroy any players will not<br>
 trigger the system.<br>
 
-***
+
 
 ## Before game start
 
 Each player:
- 1) Gain 12 resource indicator [W]
+ 1) Gain 12 resource indicator [W] 
  - 4[W] as storage (written as {W})
 (place beside Production Line)
  - 8[W] as HP (place on Team Card)
@@ -174,8 +175,10 @@ Finally, random choose a player
 to start the game.
 Game flows in anti-clockwise
 direction. 
-————————
-Game in Progress 
+
+
+
+## Game in Progress 
 
  - Game is in turn-based 
  - Each player in his/her turn
@@ -188,20 +191,22 @@ with the following order.
  - Any player end turn,
 pass to the next player.
 
-Rules for 1st cycle:
+**Rules for 1st cycle:**
 All players except the last one,
 cannot use objects 
 in the first cycle.
-————————
-4 Stages
 
-Beginning of Stage
+
+
+## 4 Stages
+
+**Beginning of Stage**
 Usually skipped.
-————
-Supplement Stage
+
+**Supplement Stage**
 Gain 2[W] and place in Storage.
-————
-Action Stage
+
+**Action Stage**
 
 You may do unlimited times 
 and in any order, 
@@ -209,11 +214,13 @@ to produce objects and
 use objects.
 (until you cannot do or
 do not want to do.)
-————
-End of Stage
+
+**End of Stage**
 Usually skipped.
-————————
-Produce Object
+
+
+
+## Produce Object
 
  1) Take a stand and digit pieces.
 Place 4 digit pieces in the stand
@@ -229,28 +236,30 @@ changed afterward.)
  5) If its [W] reach its required resource, placed a pink indicator,
 which declared the object is completed.
 
- * * * * * * * *
-Objects in Production Line 
-must more than 0[W] and
-not more than its
-required resource.
+> Objects in Production Line 
+> must more than 0[W] and
+> not more than its
+> required resource.
+>
+> If it is 0[W], removed from Production Line.
+>
+> If more than 0[W],
+> it cannot be disposed,
+> but can be removed 
+> when produce new object.
 
-If it is 0[W], removed from Production Line.
 
-If more than 0[W],
-it cannot be disposed,
-but can be removed 
-when produce new object.
- * * * * * * * *
-————————
-Use Object
+
+## Use Object
 
  - Object can be used after completion.
  - ALL objects can be used in any instant except weapons.
  - If using weapon, 
 do the settlement.
-————————
-Production Line
+
+
+
+## Production Line
 
  - Production Line is used for
 producing objects. In general, 
@@ -262,31 +271,39 @@ place 1 object.
  - When spaces are full, 
 you dispose one of the object
 to release space.
-————————
-Distance [d]
+
+
+
+## Distance [d]
 
 It is counted per head.
 The distance between you and your adjacent player is 1.
 When counting distance,
 always count the shortest one.
-————————
-Range of Attack [r]
+
+
+
+## Range of Attack [r]
 
 Normally, the distance is 1.
-————————
-Weapon [A]
+
+
+
+## Weapon [A]
 
 Normally, is an object which
 only consist of attack value (A) 
 and no protect value (P).
-————
-Shield [P]
+
+
+
+## Shield [P]
 
 Normally, is an object which
 only consist of protect value (P) 
 and no attack value (A).
 
-Shield block settlement:
+**Shield block settlement:**
 In the description (6) of
 “Hurt Settlement”,
 amend (W) with (P).
@@ -294,14 +311,16 @@ amend (W) with (P).
 If that turn
 the accumulated hurt is more than its (P), Shield destroyed.
 Otherwise, ignore that harm.
-————
-Mix [M]
+
+
+
+## Mix [M]
 
 Normally, is an object which
 consist of protect value (P) 
 and attack value (A).
 
-Mix block settlement:
+**Mix block settlement:**
 In the description (6) of
 “Hurt Settlement”,
 amend (W) with (M).
@@ -310,28 +329,33 @@ If that turn
 the accumulated hurt is more than its (M), Mix destroyed.
 Otherwise, transfer hurt to the source (player) each time.
 
- * * * * * * * *
-CANNOT
-use Shield to block its rebound OR
-use Mix to rebound its rebound.
-Since Mix is not a weapon.
- * * * * * * * *
-————
-Special [?]
+
+>CANNOT
+>use Shield to block its rebound OR
+>use Mix to rebound its rebound.
+>Since Mix is not a weapon.
+
+
+
+## Special [?]
 
 I.e. Not Attack nor Protect
 Normally, is an object which
 consist of no protect value (P) 
 and no attack value (A).
-————
-Object [No]
+
+
+
+## Object [No]
 
 Object is described in Blue Print.
 Use stand and digit pieces 
 to represent objects 
 during the game.
-————
-Storage {W} 
+
+
+
+## Storage {W} 
 
  - X{W} stand for 
 minimum storage is X. 
@@ -341,8 +365,10 @@ then cannot use that object.
  - Storage also called as
 Degrees of Freedom (DF) or
 intelligence.
-————————
-Harm Settlement 
+
+
+
+## Harm Settlement 
 
  1) Declare using 
 arbitrary weapons with order,
@@ -365,7 +391,6 @@ weapons will hurt objects.
 Remove cancelled [W] from 
 those objects.
 
- * * * * * * * *
 Hurt Settlement with order
 
 Settle 1st weapon against
