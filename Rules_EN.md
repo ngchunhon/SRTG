@@ -149,32 +149,29 @@ trigger the system.<br>
 
 Each player:
  1) Gain 12 resource indicator [W] 
- - 4[W] as storage (written as {W})
+ - 4[W] as storage (written as {W})<br>
 (place beside Production Line)
  - 8[W] as HP (place on Team Card)
 
->You share HP with Base.
->When your Base is 0[W], 
->you are destroyed and 
->cannot play the game.
+>You share HP with Base. <br>
+>When your Base is 0[W], <br>
+>you are destroyed and <br>
+>cannot play the game. <br>
 
  2) Get your colour
- - Each player random draw 1 
-Team Card (based on Team Table),
-and face down, place on table.
- - If you get “Leader”, you can 
-face up the card at any instant.
+ - Each player random draw 1 Team Card <br>
+(based on Team Table), <br>
+and face down, place on table. <br>
+ - If you get “Leader”, you can <br>
+face up the card at any instant. <br>
 
  3) Choose a character
-Each player random draw 2 Character Card, pick one,
-face up and place on table.
+Each player random draw 2 Character Card, <br>
+pick one, face up and place on table. <br>
 
-Remaining materials place in
-common area.
-Finally, random choose a player
-to start the game.
-Game flows in anti-clockwise
-direction. 
+Remaining materials place in common area. <br>
+Finally, random choose a player to start the game. <br>
+Game flows in anti-clockwise direction. <br>
 
 
 
