@@ -7,38 +7,38 @@
 - Materials
 - Game Field 
 - Objective | Team Table 
-Bonus and Penalty System
-Before game start 
-Game in progress
-Rules for 1st cycle
-Four Stages
-Producing Object 
-Using Object
-Production Line
-Distance [d]
-Range of Attack [r]
-Weapon [A]
-Shield [P] | Shield block settlement
-Mix [M]
-Special [?]
-Object [No]
-Storage {W} 
-Hurt Settlement 
-Use Settlement 
-Destroy 
-Gain
+- Bonus and Penalty System
+- Before game start 
+- Game in progress
+- Rules for 1st cycle
+- Four Stages
+- Producing Object 
+- Using Object
+- Production Line
+- Distance [d]
+- Range of Attack [r]
+- Weapon [A]
+- Shield [P] | Shield block settlement
+- Mix [M]
+- Special [?]
+- Object [No]
+- Storage {W} 
+- Hurt Settlement 
+- Use Settlement 
+- Destroy 
+- Gain
 
 **2nd Version** 
-Recycle [R]
-Use Limit [UL]
+- Recycle [R]
+- Use Limit [UL]
 
 **3rd Version**
-Delay [t]
-Ground rule
+- Delay [t]
+- Ground rule
 
 **Appendix**
-Blue Print Table
-Characters
+- Blue Print Table
+- Characters
 
 ***
 
@@ -84,29 +84,27 @@ are in “Big 4 Project”.
 
 ## Materials
 
-Stand 4x2x8 =64
-Digit Piece 64x4 =256
-Resource indicator 64x4 =256
-Pink indicator 64
-Character Card 16
-Team Card 8
-Blue Print Table 3x8
-Documentation 1
+- Stand 4x2x8 =64
+- Digit Piece 64x4 =256
+- Resource indicator 64x4 =256
+- Pink indicator 64
+- Character Card 16
+- Team Card 8
+- Blue Print Table 3x8
+- Documentation 1
 
-————————
-Game Field
+## Game Field
 
 
-————————
-Objective 
 
- - Destroy other colours.
+## Objective 
+
+- Destroy other colours.
 Team distribution is determined 
 by Team Table.
- - End game when 
-only one colour survive.
-————
-Team Table
+- End game when only one colour survive.
+
+## Team Table
 
 2P: R B
 3P: R G B
