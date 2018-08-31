@@ -2,11 +2,11 @@
 
 ## Content
 
-Preface
-History
-Materials
-Game Field 
-Objective | Team Table 
+- Preface
+- History
+- Materials
+- Game Field 
+- Objective | Team Table 
 Bonus and Penalty System
 Before game start 
 Game in progress
