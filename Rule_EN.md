@@ -52,9 +52,10 @@ was my game designed in Form 1.
 - Decrypt Adventure
 - Matches Man
 - Mario the Board Game 
+<br>
 are in “Big 4 Project”.<br>
 
-(Hall Six is not in “Big 4”)
+(Hall Six is not in “Big 4”)<br>
 
 ***
 
@@ -109,37 +110,41 @@ by Team Table.<br>
 |-|-|
 |2P:|R B|
 |3P:|R G B|
+|4P:|R* R B* B|
+|5P:|R* R G B Y <br>(B Y same team)|
+|6P:|R* R G* G B* B|
+|7P:|R* R G* G B* B Y <br>(B Y same team)|
+|8P:|R* R G* G B* B Y* Y <br>(R G same team, B Y same team)|
 
-4P: R* R B* B
-5P: R* R G B Y (B Y same team)
-6P: R* R G* G B* B
-7P: R* R G* G B* B Y 
-(B Y same team)
-8P:  R* R G* G B* B Y* Y
-(R G same team, B Y same team)
-R: Red B: Blue G: Green Y: Yellow
-*: Team Leader
-————
-Bouns and Penalty System 
+R: Red <br>
+B: Blue <br>
+G: Green <br>
+Y: Yellow <br>
+*: Team Leader <br>
 
-Disclose his/her Team Card
-when that player is destroyed. 
+***
 
- 1. You faced up your Team Card, and...
-destroy same team player,
-ALL your objects on your 
-production line are destroyed.
-Otherwise, you gain 3[W]
-(place in your Storage),
-and may allocate to any players.
+## Bouns and Penalty System 
 
- 2. You faced down your Team Card,
-then...
-your team is undetermined.
-Destroy any players will not
-trigger the system.
-————————
-Before game start
+Disclose his/her Team Card <br>
+when that player is destroyed. <br>
+
+1. You faced up your Team Card, and...<br>
+destroy same team player,<br>
+ALL your objects on your <br>
+production line are destroyed. <br>
+Otherwise, you gain 3[W] <br>
+(place in your Storage), <br>
+and may allocate to any players. <br>
+
+2. You faced down your Team Card, then... <br>
+your team is undetermined.<br>
+Destroy any players will not<br>
+trigger the system.<br>
+
+***
+
+## Before game start
 
 Each player:
  1) Gain 12 resource indicator [W]
