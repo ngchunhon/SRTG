@@ -133,4 +133,87 @@
 |:-|
 |2{W} for 2. <br>Use 2 “Anti Missile” at the same time, <br>(P)+1.|
 
+## Characters
+
+|Frozen Man|
+|:-|
+|Ignore effect from “Infra Red”.|
+|// Change Infra Red Range,<br>// so that cannot be detected.|
+
+|Sun Glasses Man|
+|:-|
+|Your “Polaroid” can reduce 1(W).|
+
+|Pressure Man|
+|:-|
+|You may treated “Alkaline” as <br>“Shield”. Vice versa.|
+
+|Acrobatic Man|
+|:-|
+|In the description of “Stone” in your “Lever”,<br>added “or Grenade or Bomb”.|
+
+|Sniper|
+|:-|
+|Your “Sniper Rifle” (r)+1.|
+
+|Machine Gun Man|
+|:-|
+|Your “Rifle” may use with <br>2 “Bullet” at the same time,<br>(A)+7.|
+
+|Donald Trump|
+|:-|
+|You dispose 1{W},<br>ignore 1 completed object.|
+
+|Kim Jong-un|
+|:-|
+|When your objects completed,<br>no declaration required.|
+
+|Repair Man|
+|:-|
+|You dispose 1{W},<br>recover 1(HP) for any player’s base.|
+
+|Black Cloak Man|
+|:-|
+|You may place resource under the stand.|
+
+|Recycle Man|
+|:-|
+|You may dispose a stand <br>with its digit pieces, and <br>place its resource back to storage.|
+
+|Scope Man|
+|:-|
+|Your “Scope” can reduce 1(W).|
+
+|Lemon Man|
+|:-|
+|Your “Acid” can reduce 1(W).|
+
+|Soap Man|
+|:-|
+|Your “Alkaline” can cancel out “Acid”.|
+
+|Logistic Man|
+|:-|
+|In the description of “take ... from” <br>in your “Heli Flyer”, <br>added “or give ... to”.|
+
+|Shuriken Man|
+|:-|
+|Your “Shuriken” (A)+1.|
+
+|Storage Man|
+|:-|
+|When taking X[W] from your storage, <br>maximum of X is 5.|
+
+|Thief|
+|:-|
+|Your “Heli Flyer” can reduce 1(W).|
+
+|Anti Missile Man|
+|:-|
+|Your “Anti Missile” {W}-1.|
+
+|Joint Defencer|
+|:-|
+|Your “Shield” can treated as<br> “Object Shield”.| 
+
 ***
