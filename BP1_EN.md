@@ -30,6 +30,29 @@
 |113|Steel Plate|1(P)/1|
 |120|Anti Missile|1(P)/1| 
 
+## Characters
+
+ - Frozen Man
+ - Sun Glasses Man
+ - Pressure Man
+ - Acrobatic Man
+ - Sniper 
+ - Machine Gun Man
+ - Donald Trump
+ - Kim Jong-un
+ - Repair Man
+ - Black Cloak Man
+ - Recycle Man
+ - Scope Man
+ - Lemon Man
+ - Soap Man
+ - Logistic Man
+ - Shuriken Man
+ - Storage Man
+ - Thief
+ - Anti Missile Man
+ - Joint Defender
+
 ***
 
 |[001]() Stone `1(A)/1`|
