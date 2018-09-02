@@ -1,5 +1,6 @@
 # 設計圖及角色: 第三版新增規則
-**2-9-2018**
+![CI status](https://img.shields.io/badge/Star%20Road%20the%20Gathering%20-Rules%20ver3-blue.svg)
+
 
 ## 目錄
  - 一般基地
