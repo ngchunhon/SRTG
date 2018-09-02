@@ -1,4 +1,6 @@
 # 設計圖及角色 3: 埋身戰
+![CI status](https://img.shields.io/badge/Star%20Road%20the%20Gathering%20-BP3-yellow.svg)
+
 
 > **新增道具**  
 > 延時標記
