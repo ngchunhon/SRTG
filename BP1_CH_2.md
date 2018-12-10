@@ -1,4 +1,4 @@
-## 設計圖及角色 1: 開始
+## 設計圖及角色 1: 阻擋攻擊
 ![CI status](https://img.shields.io/badge/Star%20Road%20the%20Gathering%20-BP1-yellow.svg)
 
 ## 設計圖表
