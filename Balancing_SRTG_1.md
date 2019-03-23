@@ -49,22 +49,22 @@ attack Base > Hp (Object Shield)
 . 15. 防護場 1P Protecting Field <br>
 . 20. 物件防護場 1P Object Protecting Field <br>
 
-**維修箱 Repair Box 0(P)/1**
+**維修箱 Repair Box 0(P)/1**   
 你可令任意角色回復 1(Hp)。  
 You may retrieve one character 1(Hp).  
 
-**維修桌 Repair Desk 0(P)/2**
+**維修桌 Repair Desk 0(P)/2**    
 你可令：  
 距離為一的角色回復 3(Hp)，或  
 距離為二的角色回復 2(Hp)，或  
 距離為三的角色回復 1(Hp)。  
 You may retrieve one character 3(Hp) with d=1; or 2(Hp) with d=2; or 1(Hp) with d=3.  
 
-**防護場 Protecting Field 1(P)/1**
+**防護場 Protecting Field 1(P)/1**   
 任何時候，你可生產此物件。  
 You may produce this object at any instant.  
 
-**物件防護場 Object Protecting Field 1(P)/1**
+**物件防護場 Object Protecting Field 1(P)/1**    
 描述與防護場相同。  
 Its description is the as same as Protecting Field.  
 
