@@ -1,4 +1,6 @@
-中心 Centre
+# Balancing SRTG 1: 阻擋攻擊 Blocking Attack
+
+## 中心 Centre
 
 防護網 > 手榴彈
 炸彈 > 防護網
@@ -18,7 +20,7 @@ attack Object > Shield
 Shield > attack Base
 attack Base > Hp (Object Shield)
 
-Examples
+**例子 Examples**
 3A > 5A
 5A > 3P’ (Object Shield)
 3P’ > 3A
@@ -29,42 +31,25 @@ Examples
 
 3P’ 5A > 3A
 3A 3A > 3P’ 5A
-————————
-設計圖 Blueprints
+
+***
+
+## 設計圖 Blueprints
 
 1. 石頭 1A (d=2) Stone
 2. 手榴彈 3A Grenade
 3. 防護網 3P Shield
 4. 物件防護網 3P Object Shield
 5. 炸彈 5A/3 Bomb
-
+<br>
 10. 迫擊炮 2A/2 (d=2) Mortar
 11. 改良迫擊炮 4A/3 (d=2)
 12. 榴彈炮 3A/3 (d=3) Howitzer
 13. 維修箱 1Hp Repair Box
 14. 維修桌 3Hp Repair Desk
 15. 防護場 1P Protecting Field 
-
+<br>
 20. 物件防護場 1P object protecting field
-
-
--A
-A-B 
--B
-
-—A
--A-A
-A—-B
--B-B
-—B
-
-1: 3P1 3P’1 | 5A1 5A1
-2: 3P2 3P’2 | 5A2 5A2
-3: 5A1 5A1 3P2 3P’2 | 5A3 5A3
-
-0: 3P2 3P2 | 3P’2 3P’2
-1: 3A1 3A1 | 5A1 5A1
-2: 3A2 3A2 | 
 
 維修箱 0(P)/1
 你可令任意角色回復 1(Hp)。
