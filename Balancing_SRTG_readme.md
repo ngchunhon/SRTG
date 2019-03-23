@@ -1,4 +1,4 @@
-# Balancing SRTG 1: 阻擋攻擊 Blocking Attack
+# Balancing SRTG Readme
   
 # 道具 Materials
 
