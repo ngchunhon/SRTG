@@ -41,44 +41,44 @@
 3. 起始基地，生產線及物件 Starting Base, Pipelines and initial Objects
 4. 由隊長開始 Captain starts the game!
 
-**1. 抽取陣營 Draw a Team**
-按遊戲開始人數抽出相應陣營卡。
-Based on number of player, extract corresponding Team Card. 
-2P R* Y
-3P B R* Y
-4P B R*R Y
-5P BB R*R Y
-6P BBB R*R Y
-7P BBB R*RR Y
-8P BBBB R*RR Y
-R* 紅圈星星 隊長 Red Circle with a Star, Captain
-R 紅點 組員 Red Dot, Member
-B 藍點 敵人 Blue Dot, Enemy
-Y 黃點 獨行者 Yellow, Loner
+**1. 抽取陣營 Draw a Team**   
+按遊戲開始人數抽出相應陣營卡。   
+Based on number of player, extract corresponding Team Card.     
+2P R* Y   
+3P B R* Y   
+4P B R*R Y    
+5P BB R*R Y   
+6P BBB R*R Y    
+7P BBB R*RR Y   
+8P BBBB R*RR Y    
+R* 紅圈星星 隊長 Red Circle with a Star, Captain    
+R 紅點 組員 Red Dot, Member   
+B 藍點 敵人 Blue Dot, Enemy   
+Y 黃點 獨行者 Yellow, Loner    
 
-然後每人隨機獲得一張。
-獲得隊長身份必須公開。
-所有角色起始 Hp 為 8。
-(若人數多於四名，隊長 Hp+4)
-Each player draw one card. The one who get Captain expose his card. 
-All Characters initial Hp is 8.
-(If total player is more than 4, Captain Hp+4.)
+然後每人隨機獲得一張。   
+獲得隊長身份必須公開。   
+所有角色起始 Hp 為 8。    
+(若人數多於四名，隊長 Hp+4)   
+Each player draw one card. The one who get Captain expose his card.     
+All Characters initial Hp is 8.   
+(If total player is more than 4, Captain Hp+4.)   
 
-陣營 Team
-* 隊長 Captain
-* 隊員 Member
-* 敵人 Enemy
-* 獨行者 Loner
-若為隊長及其隊員，殺死獨行者及所有敵人為贏。
-若為敵人，殺死隊長為贏。
-若為獨行者，則須殺死所有角色。
-For Captain and his Member, win if kill the Loner and all Enemies.
-For Enemy, win if kill Captain.
-For Loner, just kill all characters.
+**陣營 Team**
+* 隊長 Captain    
+* 隊員 Member   
+* 敵人 Enemy    
+* 獨行者 Loner   
+若為隊長及其隊員，殺死獨行者及所有敵人為贏。    
+若為敵人，殺死隊長為贏。    
+若為獨行者，則須殺死所有角色。   
+For Captain and his Member, win if kill the Loner and all Enemies.    
+For Enemy, win if kill Captain.   
+For Loner, just kill all characters.    
  
- 2. 抽取基地咭
-每人隨機獲得一張。
-每張基地咭皆有不同能力。
+**2. 抽取基地咭**    
+每人隨機獲得一張。   
+每張基地咭皆有不同能力。    
 
  3.1 起始基地
 每人獲取相等於角色體力值的白色方塊。
