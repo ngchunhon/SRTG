@@ -1,5 +1,4 @@
-# Balancing SRTG 1
-## 阻擋攻擊 Blocking Attack
+# Balancing SRTG 1: 阻擋攻擊 Blocking Attack
   
 # 道具 Materials
 
@@ -107,47 +106,34 @@ Captain starts first. The game plays in anti-clockwise direction.
 
 ## 你的回合 During your Turn    
 輪到你時，必須順序執行三個階段：    
-1. 補給階段   
-2. 生產階段   
-3. 行動階段   
 During your turn, the following three stage must be executed and in correct order:    
-1. Supply Stage   
-2. Production Stage   
-3. Action Stage   
+1. 補給階段 Supply Stage    
+2. 生產階段 Production Stage   
+3. 行動階段 Action Stage    
+   
+**使用物件 Using Objects**
+任何時候，除武器外，你可使用任意數量且已完成的物件。    
+At any instant, besides weapons, you may use arbitrary amount of completed objects.     
 
-使用物件
-任何時候，除武器外，你可使用任意數量且已完成的物件。
-
-Using Objects
-At any instant, besides weapons, you may use arbitrary amount of completed objects. 
-
-
-階段
-補給階段
-獲得 2(W) 並移至你的倉庫。
-
-生產階段
-獲取底座及數字方塊造成物件。置於生產線下層。若已放置物件則置於上一層。
-從倉庫提取 0 - 4(W)，並置於物件旁。此階段每層最多可置上 1(W)。
-
-行動階段
-你可不斷使用物件，直至沒法或不想使用為止。若你使用的物件為武器，則進行攻擊傷害結算。
-
-
-Stages
-Supply Stage
+## 階段 Stages
+**補給階段 Supply Stage**
+獲得 2(W) 並移至你的倉庫。    
 Take 2(W) and place it into your Storage.
 
-Production Stage
-Take a Stand and Digit Block to form an object. Place it on the lower platform of a pipeline. If that is already occupied, place on upper level. 
-Take 0-4(W) from your Storage and place near an object. During this stage, placed at most 1(W) on each platform. 
+**生產階段 Production Stage**
+獲取底座及數字方塊造成物件。置於生產線下層。若已放置物件則置於上一層。   
+從倉庫提取 0 - 4(W)，並置於物件旁。此階段每層最多可置上 1(W)。    
+Take a Stand and Digit Block to form an object. Place it on the lower platform of a pipeline. If that is already occupied, place on upper level.    
+Take 0-4(W) from your Storage and place near an object. During this stage, placed at most 1(W) on each platform.    
 
-Action Stage
-You can use arbitrary amount of objects, until you are unable to use or do not want to use. If you use an object which is a weapon, do Damage Settlement.
+**行動階段 Action Stage**
+你可不斷使用物件，直至沒法或不想使用為止。若你使用的物件為武器，則進行攻擊傷害結算。    
+You can use arbitrary amount of objects, until you are unable to use or do not want to use. If you use an object which is a weapon, do Damage Settlement.   
 
+***
 
-策動戰爭
-攻擊傷害結算
+## 策動戰爭
+**攻擊傷害結算**
 1. 你宣告使用武器及指定角色
 2. 目標角色宣告使用物件阻擋
 3. 你確定其攻擊目標(可選擇物件或基地)
@@ -157,8 +143,8 @@ You can use arbitrary amount of objects, until you are unable to use or do not w
 * 若原先攻擊目標為基地，則以 1Hp 抵銷 1A 結算
 6. 武器使用一次後消滅
 
-Instigate a Battle
-Damage Settlement 
+## Instigate a Battle
+**Damage Settlement**
 1. You declare to use a weapon and assign a character
 2. Targeted character declare to use an object for blocking
 3. You determine that target (choose target’s object or base)
