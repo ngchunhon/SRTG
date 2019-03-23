@@ -1,7 +1,7 @@
 # Balancing SRTG 1
 ## 阻擋攻擊 Blocking Attack
   
-## 道具 Materials
+# 道具 Materials
 
 **道具 | 名稱**
 - 原色積木 數字方塊   
@@ -41,7 +41,7 @@
 3. 起始基地，生產線及物件 Starting Base, Pipelines and initial Objects
 4. 由隊長開始 Captain starts the game!
 
-**1. 抽取陣營 Draw a Team**   
+## 1. 抽取陣營 Draw a Team
 按遊戲開始人數抽出相應陣營卡。   
 Based on number of player, extract corresponding Team Card.     
 2P R* Y   
@@ -77,45 +77,43 @@ For Captain and his Member, win if kill the Loner and all Enemies.
 For Enemy, win if kill Captain.   
 For Loner, just kill all characters.    
  
-**2. 抽取基地咭 Draw a Base Card**    
+## 2. 抽取基地咭 Draw a Base Card  
 每人隨機獲得一張。   
 每張基地咭皆有不同能力。    
 Each player draw one card.    
 Each card has its own ability.    
 
-**3.1 起始基地 Starting Base**    
+## 3.1 起始基地 Starting Base   
 每人獲取相等於角色體力值的白色方塊。    
 基地外觀沒有限制。   
 Each player takes the same amount of white cubes as the HP of your Base Card.     
 There is no limitation for the appearance of your base.   
 
-**3.2 起始生產線 Starting Pipelines**   
+## 3.2 起始生產線 Starting Pipelines  
 每人獲取四條生產線。    
 Each player takes four Pipelines.   
 
-**3.3 起始物件 Initial Objects**    
+## 3.3 起始物件 Initial Objects 
 每人生產任意兩個 2(W) 已完成物件。    
 (建議 **防護網** **物件防護網** 各一)   
 Each player produce two arbitrary 2(W) completed objects.     
 (Suggestion: 1 **Shield** and 1 **Object Shield**)    
 
-**4. 由隊長開始 Captain starts the game!**
+## 4. 由隊長開始 Captain starts the game!
 由隊長開始。遊戲以逆時針方向進行。   
 Captain starts first. The game plays in anti-clockwise direction.   
 
 ***
 
-你的回合
-輪到你時，必須順序執行三個階段：
-1. 補給階段
-2. 生產階段
-3. 行動階段
-
-During your Turn
-During your turn, the following three stage must be executed and in correct order: 
-1. Supply Stage
-2. Production Stage
-3. Action Stage
+## 你的回合 During your Turn    
+輪到你時，必須順序執行三個階段：    
+1. 補給階段   
+2. 生產階段   
+3. 行動階段   
+During your turn, the following three stage must be executed and in correct order:    
+1. Supply Stage   
+2. Production Stage   
+3. Action Stage   
 
 使用物件
 任何時候，除武器外，你可使用任意數量且已完成的物件。
