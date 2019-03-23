@@ -36,11 +36,11 @@ attack Base > Hp (Object Shield)
 
 ## 設計圖 Blueprints
 
-1. 石頭 1A (d=2) Stone <br>
-2. 手榴彈 3A Grenade <br> 
-3. 防護網 3P Shield <br> 
-4. 物件防護網 3P Object Shield <br>
-5. 炸彈 5A/3 Bomb <br>
+ 1. 石頭 1A (d=2) Stone <br>
+ 2. 手榴彈 3A Grenade <br> 
+ 3. 防護網 3P Shield <br> 
+ 4. 物件防護網 3P Object Shield <br>
+ 5. 炸彈 5A/3 Bomb <br>
 <br>
 10. 迫擊炮 2A/2 (d=2) Mortar <br>
 11. 改良迫擊炮 4A/3 (d=2) <br>
