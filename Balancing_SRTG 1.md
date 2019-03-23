@@ -69,6 +69,7 @@ All Characters initial Hp is 8.
 * 隊員 Member   
 * 敵人 Enemy    
 * 獨行者 Loner   
+    
 若為隊長及其隊員，殺死獨行者及所有敵人為贏。    
 若為敵人，殺死隊長為贏。    
 若為獨行者，則須殺死所有角色。   
