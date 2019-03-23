@@ -154,23 +154,24 @@ You can use arbitrary amount of objects, until you are unable to use or do not w
 * If the original target is the base, settle as 1Hp cancelled out 1A
 6. Weapon destroyed after use
 
+***
 
-防具
-當有武器指定你的基地為目標時展示之。若如此做，攻擊改為以 1P 抵銷 1A 結算。若
-* 該攻擊值 A 多於其防護值 P，結算後，防具被消滅。
-* 否則，傷害將保留於防具。若累積傷害多於其防護值 P，防具亦會被消滅。
-當前角色中回合結束後，防具累積傷害歸零。
+## 防具
+當有武器指定你的基地為目標時展示之。若如此做，攻擊改為以 1P 抵銷 1A 結算。若    
+* 該攻擊值 A 多於其防護值 P，結算後，防具被消滅。    
+* 否則，傷害將保留於防具。若累積傷害多於其防護值 P，防具亦會被消滅。    
+當前角色中回合結束後，防具累積傷害歸零。    
 
-Armour
-Show it when there exist a weapon assigning your base as target. If do show, damage settlement change as 1P cancelled out 1A. If
+## Armour
+Show it when there exist a weapon assigning your base as target. If do show, damage settlement change as 1P cancelled out 1A. If    
 * That attack value A is greater than its protect value P, armour destroyed after settlement 
 * Otherwise, harm remains on the armour. If accumulated harm is greater than its P, armour will also be destroyed
 After the end of turn of the current character, accumulated harm reset to zero. 
 
+## 物件防具
+將防具描述裡的基地改為物件。    
 
-物件防具
-將防具描述裡的基地改為物件。
+## Object Armour 
+Change base into object in the description of Armour.   
 
-Object Armour 
-Change base into object in the description of Armour.
-————————
+***
