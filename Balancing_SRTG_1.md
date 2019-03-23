@@ -89,27 +89,27 @@ You discard 1(W), ignore one completed indicator of an object, until end of turn
 你的物件完成後不用宣告。   
 No completed indicators have to place when your object is completed.  
 
-**維修基地 Repair Base**
+**維修基地 Repair Base**    
 你棄掉 2(W)，任意一個基地回復 3(Hp)。  
 You discard 2(W), one arbitrary base retrieve 3(Hp).  
 
-**鍊金術基地 Alchemy Base**
+**鍊金術基地 Alchemy Base**    
 你棄掉一個物件，將其資源置回倉庫。  
 You discard one object, take its resource back to storage.  
 
-**倉庫基地 Storage Base**
+**倉庫基地 Storage Base**   
 生產階段，你可使用 5(W)。若如此做，其中一條生產線最多可置上 2(W)。  
 In the production stage, you may place 5(W). If so, one of pipelines can place 2(W).  
 
-**突擊基地 Raid Base**
+**突擊基地 Raid Base**    
 生產階段，每條生產線最多可置上 2(W)。  
 In the production stage, place at most 2(W) in each pipeline.  
 
-**火藥基地 Powder Base**
+**火藥基地 Powder Base**    
 行動階段限一次。你棄掉 2(W)，對距離為一的角色作出 3(A) 攻擊。  
 Do once only in the action stage. You discard 2(W), give 3(A) attack to a character with distance within 1.  
 
-**聯網基地 Joint Shield Base**
+**聯網基地 Joint Shield Base**    
 你的**防護網**可當作**物件防護網**。  
 Your **Shield** may treat as **Object Shield**.   
 
