@@ -77,40 +77,33 @@ For Captain and his Member, win if kill the Loner and all Enemies.
 For Enemy, win if kill Captain.   
 For Loner, just kill all characters.    
  
-**2. 抽取基地咭**    
+**2. 抽取基地咭 Draw a Base Card**    
 每人隨機獲得一張。   
 每張基地咭皆有不同能力。    
+Each player draw one card.    
+Each card has its own ability.    
 
- 3.1 起始基地
-每人獲取相等於角色體力值的白色方塊。
-基地外觀沒有限制。
+**3.1 起始基地 Starting Base**    
+每人獲取相等於角色體力值的白色方塊。    
+基地外觀沒有限制。   
+Each player takes the same amount of white cubes as the HP of your Base Card.     
+There is no limitation for the appearance of your base.   
 
- 3.2 起始生產線
-每人獲取四條生產線。
+**3.2 起始生產線 Starting Pipelines**   
+每人獲取四條生產線。    
+Each player takes four Pipelines.   
 
- 3.3 起始物件
-每人生產任意兩個 2(W) 已完成物件。
-(建議 防護網 物件防護網 各一)
+**3.3 起始物件 Initial Objects**    
+每人生產任意兩個 2(W) 已完成物件。    
+(建議 **防護網** **物件防護網** 各一)   
+Each player produce two arbitrary 2(W) completed objects.     
+(Suggestion: 1 **Shield** and 1 **Object Shield**)    
 
+**4. 由隊長開始 Captain starts the game!**
+由隊長開始。遊戲以逆時針方向進行。   
+Captain starts first. The game plays in anti-clockwise direction.   
 
- 2. Draw a Base Card
-Each player draw one card. 
-Each card has its own ability.
-
- 3.1 Starting Base
-Each player takes the same amount of white cubes as the HP of your Base Card. There is no limitation for the appearance of your base. 
-
- 3.2 Starting Pipelines
-Each player takes four Pipelines.
-
- 3.3 Initial Objects
-Each player produce two arbitrary 2(W) completed objects. 
-(Suggestion: 1 Shield and 1 Object Shield)
-
- 4. 由隊長開始 Captain starts the game!
-由隊長開始。遊戲以逆時針方向進行。
-Captain starts first. The game plays in anti-clockwise direction.
-
+***
 
 你的回合
 輪到你時，必須順序執行三個階段：
