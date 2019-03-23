@@ -42,14 +42,14 @@ attack Base > Hp (Object Shield)
 4. 物件防護網 3P Object Shield
 5. 炸彈 5A/3 Bomb
 <br>
-10. 迫擊炮 2A/2 (d=2) Mortar   
-11. 改良迫擊炮 4A/3 (d=2)    
-12. 榴彈炮 3A/3 (d=3) Howitzer   
-13. 維修箱 1Hp Repair Box    
-14. 維修桌 3Hp Repair Desk   
-15. 防護場 1P Protecting Field     
+10. 迫擊炮 2A/2 (d=2) Mortar <br>
+11. 改良迫擊炮 4A/3 (d=2) <br>
+12. 榴彈炮 3A/3 (d=3) Howitzer <br>
+13. 維修箱 1Hp Repair Box <br>
+14. 維修桌 3Hp Repair Desk <br>
+15. 防護場 1P Protecting Field <br>
 <br>
-20. 物件防護場 1P object protecting field    
+20. 物件防護場 1P object protecting field <br>
 
 維修箱 0(P)/1
 你可令任意角色回復 1(Hp)。
